@@ -46,7 +46,10 @@ void EncryptFile(string inputFileName, string pathEncrypted, string aesKey, stri
     {
 
         var fileInfo = new FileInfo(inputFileName);
-        var outputFileName = pathEncrypted + @"\" + Path.GetFileNameWithoutExtension(Path.GetRandomFileName()) + fileInfo.Extension;
+        var outputFileName = pathEncrypted + @"\" 
+            + Path.GetFileNameWithoutExtension(Path.GetRandomFileName()) 
+            + Guid.NewGuid().ToString()
+            + fileInfo.Extension;
 
         using (FileStream fStream = new FileStream(outputFileName, FileMode.Create))
         {
