@@ -1,0 +1,1 @@
+Setting up .Net 6.0 console application to AES encrypt files..
