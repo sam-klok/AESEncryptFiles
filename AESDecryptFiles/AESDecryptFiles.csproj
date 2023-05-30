@@ -13,7 +13,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="AesEcryptedFiles\hcp4azwv3af4716f-956c-49c7-9a92-69ddb8c9f439.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="AesEcryptedFiles\lxopgiaqf408acf1-6a82-4153-881a-68b76e945fa0.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="AesEcryptedFiles\oc1ljiroc975206a-41ac-4596-b0dc-3897c2882167.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="AesEcryptedFiles\pfxyvtvn34592de2-b2e4-498c-ac2d-63aec8cd5507.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="AesEcryptedFiles\qmwbdntva6089a60-9fd8-45c1-8382-44ce08c4c84d.html">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="AesEcryptedFiles\ryxmfb4z17ed5be2-51ec-47cf-b3cf-a2a2911d0544.pdf">
@@ -23,6 +35,12 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="AesEcryptedFiles\ulfoseszc3949b6d-613a-4a29-b490-f682188a7d68.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="AesEcryptedFiles\vpuathcr26f5d1de-1948-4a53-b37a-da165075fca3.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="AesEcryptedFiles\xrn44xknafee0475-84da-4f37-87c4-cfeb1ced9ab2.pdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="AesEcryptedFiles\yeeldx5r67fb8c4c-78a6-40da-a4f6-3ca8d41ec99c.txt">
