@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AESEncryptFiles", "AESEncryptFiles\AESEncryptFiles.csproj", "{F2004C34-AD82-44E1-8245-5667D52CA4C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AESEncryptFiles", "AESEncryptFiles\AESEncryptFiles.csproj", "{F2004C34-AD82-44E1-8245-5667D52CA4C6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0B960BD-801D-4FFE-933C-63D04CFF891F}"
 	ProjectSection(SolutionItems) = preProject
 		readme.txt = readme.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AESDecryptFiles", "AESDecryptFiles\AESDecryptFiles.csproj", "{F3373EC7-2631-4092-8F66-D7FB5305F8EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +22,10 @@ Global
 		{F2004C34-AD82-44E1-8245-5667D52CA4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2004C34-AD82-44E1-8245-5667D52CA4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2004C34-AD82-44E1-8245-5667D52CA4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3373EC7-2631-4092-8F66-D7FB5305F8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3373EC7-2631-4092-8F66-D7FB5305F8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3373EC7-2631-4092-8F66-D7FB5305F8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3373EC7-2631-4092-8F66-D7FB5305F8EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
